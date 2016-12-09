@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     }
 
     MyHandler handler = new MyHandler();
-    TextView tv;
+    TextView tv2;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
